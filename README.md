@@ -2,7 +2,7 @@
 
 #  Twittermenti
 
-This app is a sentiment analysis of Twitter Data for predicting Stock Market Movements. It uses Twitter APIs to fetch the latest tweets on a particular stock and analyses them using a maching learning model to predict the overall sentiment related to the stock. The stronger the sentiment, the more extreme the emoticon.
+This app is a sentiment analysis of Twitter Data for predicting Stock Market Movements. It uses Twitter APIs to fetch the latest tweets on a particular stock and analyses them using a machine learning model to predict the overall sentiment related to the stock. The stronger the sentiment, the more extreme the emoticon.
 
 ### Get a gauge on how people feel about a particular stock or a company.
 
